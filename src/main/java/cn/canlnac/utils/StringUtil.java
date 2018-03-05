@@ -13,6 +13,7 @@ import static org.apache.commons.lang3.StringUtils.*;
 
 /**
  * 字符串工具类
+ * 注意：此类使用到Encodes类
  */
 public class StringUtil {
 

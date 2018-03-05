@@ -38,6 +38,12 @@
 			<version>${commons.lang3.version}</version>
 		</dependency>
 
+		<!-- jackson json -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.dataformat</groupId>
+			<artifactId>jackson-dataformat-xml</artifactId>
+		</dependency>
+
 		<!-- guava -->
 		<dependency>
 			<groupId>com.google.guava</groupId>

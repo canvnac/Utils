@@ -15,6 +15,7 @@ import org.apache.commons.lang3.StringEscapeUtils;
  * 2.自制的base62 编码（62的长度内容可自行设置。例如改为： BASE4 = "1234"）
  * 3.Commons-Lang的xml/html escape
  * 4.JDK提供的URLEncoder
+ * 注意：此类使用到Exceptions类
  */
 public class Encodes {
 
