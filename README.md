@@ -1,7 +1,6 @@
 # Utils
 java的各种工具类
 
-test
 
 [验证码工具类](https://github.com/canvnac/Utils/blob/master/src/main/java/cn/canlnac/utils/ValidateCodeUtil.java)
 
